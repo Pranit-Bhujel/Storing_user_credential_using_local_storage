@@ -1,0 +1,100 @@
+body {
+    background: #48d2bd;
+    color: #fff;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .container {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    min-width: 320px;
+    margin: -30px 0 0;
+  }
+  .container h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+  }
+  .container h1 a {
+    display: inline-block;
+    background: #000;
+    background: rgba(0, 0, 0, 0.05);
+    padding: 10px 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  .container h1 a:hover {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  .container p {
+    margin-bottom: 30px;
+    color: #d6f2e4;
+    font-family: 'Proxima Nova', sans-serif;
+    font-size: 20px;
+  }
+  .container .social-media ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .container .social-media ul li {
+    display: inline-block;
+    margin: 0 16px 0 0;
+    font-size: 14px;
+  }
+  .container .social-media ul li:last-child {
+    margin: 0;
+  }
+  .container .social-media ul li a {
+    display: block;
+    width: 16px;
+    color: #fff;
+  }
+  body{
+    font-family: sans-serif;
+  }
+  .btn{
+    border-radius: 30px;
+    padding: 10px;
+    border: 1px solid white;
+    color: black;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  h2{
+    font-weight: bold;
+  }
+  .fa{
+    font-size: 20px;
+  }
+  table{
+    margin: auto;
+    align-content: center;
+  }
+  th, td{
+    padding-right: 30px;
+    margin: 10px;
+    color: black;
+    border-color: whitesmoke;
+  }
+  tr{
+    border-color: white;
+    border: 1px solid white;
+  }
+  #parent{
+    display: none;
+  }
+  th{
+    color: white;
+  }
