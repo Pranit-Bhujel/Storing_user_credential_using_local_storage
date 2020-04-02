@@ -16,5 +16,5 @@
 
 <img src = "https://github.com/Pranit-Bhujel/Storing_user_credential_using_local_storage/blob/master/images/admin_page.png" width= "200" height = "300">
                                                                                                                                                       
-PS: The project was just created for fun, feel free to play with it. And see what you can make ou of it.
+PS: The project was just created for fun, feel free to play with it. And see what you can make out of it.
 
